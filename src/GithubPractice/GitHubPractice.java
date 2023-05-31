@@ -9,6 +9,9 @@ public class GitHubPractice {
 		
 
 	}
+	public void gitHubPractice() {
+		System.out.println("This is very easy to learn if you continue practice");
+	}
 	
 
 }
