@@ -13,5 +13,10 @@ public class GitHubPractice {
 		System.out.println("This is very easy to learn if you continue practice");
 	}
 	
+	public void gitHubPracticeTwo (){
+		
+		System.out.println("This is for local repo");
+	
 
+}
 }
